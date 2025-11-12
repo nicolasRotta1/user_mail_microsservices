@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="193913ce-39a5-4db5-a7cd-9370731303a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/user/src/test/java/com/ms/user/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/src/test/java/com/ms/user/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lksmv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rannyer/user_mail_microsservices.git",
+    "accountId": "b53e8791-6328-44ab-9cb7-26e752696a63"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="35OZmwSEwX9Iq0zrCdY3w94UXiK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.UserApplicationTests.executor": "Run",
+    "JUnit.UserControllerTest.executor": "Run",
+    "JUnit.UserServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/moc/Documents/GitHub/user_mail_microsservices"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="193913ce-39a5-4db5-a7cd-9370731303a5" name="Changes" comment="" />
+      <created>1762983240468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762983240468</updated>
+    </task>
+    <servers />
+  </component>
+</project>

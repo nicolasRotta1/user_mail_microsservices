@@ -1,9 +1,6 @@
 package com.ms.user.models;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @jakarta.persistence.Entity
 public class User {
@@ -11,15 +8,16 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
+    @Column(nullable = false)
     private String email;
+
     private String status;
 
     public User() {
 
     }
 
-    public User(Long id, String nome, String email, String status) {
-        this.id = id;
+    public User(String nome, String email, String status) {
         this.nome = nome;
         this.email = email;
         this.status = status;
