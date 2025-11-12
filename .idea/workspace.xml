@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="193913ce-39a5-4db5-a7cd-9370731303a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/test/java/com/ms/user/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/test/java/com/ms/user/UserControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/moc/Documents/GitHub/user_mail_microsservices"
+    "last_opened_file_path": "C:/Users/moc/Documents/GitHub/user_mail_microsservices",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="TaskManager">

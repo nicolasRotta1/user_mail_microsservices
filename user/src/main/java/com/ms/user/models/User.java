@@ -1,6 +1,8 @@
 package com.ms.user.models;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotBlank;
+import org.aspectj.lang.annotation.RequiredTypes;
 
 @jakarta.persistence.Entity
 public class User {
@@ -8,6 +10,8 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
+
+    @NotBlank
     @Column(nullable = true)
     private String email;
 
