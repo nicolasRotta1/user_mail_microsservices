@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="193913ce-39a5-4db5-a7cd-9370731303a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user/src/test/java/com/ms/user/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/src/test/java/com/ms/user/UserControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/ms/user/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

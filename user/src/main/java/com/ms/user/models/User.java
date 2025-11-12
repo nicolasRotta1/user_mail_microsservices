@@ -8,7 +8,7 @@ public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    @Column(nullable = false)
+    @Column(nullable = true)
     private String email;
 
     private String status;
